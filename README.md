@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mahendran-C/blog-preview-card]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://mahendran-c.github.io/blog-preview-card/]
 
 ## My process
 
